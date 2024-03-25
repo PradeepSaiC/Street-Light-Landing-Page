@@ -17,4 +17,4 @@
 ![output](./Screenshot/image.png)
 
 #### Time taken - 8 hours
-### live link -
+### live link - [Link](https://street-style-landing-page-tawny.vercel.app/)
